@@ -145,11 +145,11 @@ footer {
 #contact {
   background-color: #f9f9f9;
   padding: 30px;
-  max-width: 400px; /* Bawasan ang lapad */
-  margin: 40px auto; /* Center horizontally */
+  max-width: 400px;
+  margin: 40px auto;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
-  text-align: center; /* Center text */
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  text-align: center; /* Center all text */
   font-family: Arial, sans-serif;
 }
 
@@ -166,9 +166,8 @@ footer {
 }
 
 #contact a {
-  color: #1a73e8;
+  color: #007BFF;
   text-decoration: none;
-  font-weight: 600;
 }
 
 #contact a:hover {

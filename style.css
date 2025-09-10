@@ -90,6 +90,14 @@ h2 {
   justify-content: center;
 }
 
+.project-image {
+  width: 100%;
+  max-width: 400px; /* or whatever width you want */
+  height: auto;
+  border-radius: 10px; /* optional for styling */
+}
+
+
 .project-card {
   border: 1px solid #ddd;
   padding: 15px;

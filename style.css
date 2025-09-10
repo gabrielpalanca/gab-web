@@ -91,13 +91,14 @@ h2 {
 }
 
 .project-card {
-  border: 1px solid #ddd;
+  width: 300px;
+  border: 1px solid #ccc;
   padding: 15px;
-  max-width: 300px;
-  text-align: center;
   border-radius: 10px;
-  background-color: #fff;
+  background: white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
+
 
 .project-card img {
   width: 100%;
